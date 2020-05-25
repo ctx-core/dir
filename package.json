@@ -2,6 +2,7 @@
 	"name": "@ctx-core/dir",
 	"version": "4.1.57",
 	"description": "ctx-core dir",
+	"type": "module",
 	"main": "env.js",
 	"module": "env.js",
 	"types": "env.ts",
