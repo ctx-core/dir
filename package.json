@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "4.1.59",
+	"version": "4.1.60",
 	"description": "ctx-core dir",
 	"type": "module",
 	"main": "env.js",
@@ -30,7 +30,7 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.29"
+		"@ctx-core/env": "^8.3.30"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
