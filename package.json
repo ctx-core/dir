@@ -32,7 +32,7 @@
 		"@ctx-core/env": "^8.3.34"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.5"
+		"typescript": "^3.9.6"
 	},
 	"gitHead": "94705733db8f260874e899542b267fd4f7c8d721"
 }
