@@ -1,2 +1,2 @@
-import '@ctx-core/env/env'
+import '@ctx-core/env'
 export const TMP_DIR = process.env.TMP_DIR || `${process.env.PWD}/tmp`
