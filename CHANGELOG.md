@@ -1,5 +1,16 @@
 # @ctx-core/dir
 
+## 5.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.0
+
 ## 4.1.99
 
 ### Patch Changes
