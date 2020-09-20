@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 5.0.1
+
+### Patch Changes
+
+- fix: install issues: using explicit workspace: versioning
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.1
+
 ## 5.0.0
 
 ### Major Changes
