@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 5.0.47
+
+### Patch Changes
+
+- - .rush
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.1.13
+
 ## 5.0.46
 
 ### Patch Changes
