@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 5.0.48
+
+### Patch Changes
+
+- @ctx-core/env@9.1.14
+
 ## 5.0.47
 
 ### Patch Changes
