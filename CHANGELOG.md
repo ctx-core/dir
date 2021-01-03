@@ -1,5 +1,12 @@
 # @ctx-core/dir
 
+## 5.0.57
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.3.0
+
 ## 5.0.56
 
 ### Patch Changes
