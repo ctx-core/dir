@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 5.0.58
+
+### Patch Changes
+
+- remove @ctx-core/env dependency
+
 ## 5.0.57
 
 ### Patch Changes

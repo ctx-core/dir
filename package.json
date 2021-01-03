@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "5.0.57",
+	"version": "5.0.58",
 	"description": "ctx-core dir",
 	"keywords": [
 		"ctx-core",
@@ -26,9 +26,7 @@
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
-	"dependencies": {
-		"@ctx-core/env": "workspace:^9.3.0"
-	},
+	"dependencies": {},
 	"devDependencies": {
 		"typescript": "^4.1.3"
 	},
