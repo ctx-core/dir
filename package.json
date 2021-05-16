@@ -26,7 +26,6 @@
 		"exec": "$@",
 		"prepublishOnly": "npm run compile"
 	},
-	"dependencies": {},
 	"devDependencies": {
 		"typescript": "^4.2.4"
 	},
