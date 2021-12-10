@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.0.26
+
+### Patch Changes
+
+- package.json: - module
+
 ## 8.0.25
 
 ### Patch Changes
