@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.0.36
+
+### Patch Changes
+
+- version bump
+
 ## 8.0.35
 
 ### Patch Changes
