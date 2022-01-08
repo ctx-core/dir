@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.0.38
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 8.0.37
 
 ### Patch Changes
