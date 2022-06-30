@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.1.1
+
+### Patch Changes
+
+- fix: chdir export
+
 ## 8.1.0
 
 ### Minor Changes
