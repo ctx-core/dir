@@ -1,5 +1,15 @@
 # @ctx-core/dir
 
+## 8.1.0
+
+### Minor Changes
+
+feat: chdir
+
+- .js + .d.ts instead of .ts
+
+  fix: TMP_DIR
+
 ## 8.0.39
 
 ### Patch Changes
