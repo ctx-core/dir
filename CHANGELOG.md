@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.1.3
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 8.1.2
 
 ### Patch Changes
