@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.1.5
+
+### Patch Changes
+
+- dependencies: fix: @ctx-core/env
+
 ## 8.1.4
 
 ### Patch Changes
