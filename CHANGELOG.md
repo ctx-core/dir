@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 8.1.4
+
+### Patch Changes
+
+- import*meta_env*() instead of process.env
+- Updated dependencies
+  - @ctx-core/env@17.2.18
+
 ## 8.1.3
 
 ### Patch Changes

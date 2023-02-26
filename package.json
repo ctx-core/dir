@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "8.1.3",
+	"version": "8.1.4",
 	"description": "ctx-core dir",
 	"keywords": [
 		"ctx-core",
@@ -43,5 +43,8 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"sideEffects": false
+	"sideEffects": false,
+	"dependencies": {
+		"@ctx-core/env": "workspace:^17.2.18"
+	}
 }
