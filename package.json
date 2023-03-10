@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "8.1.18",
+	"version": "8.1.19",
 	"description": "ctx-core dir",
 	"keywords": [
 		"ctx-core",
@@ -45,6 +45,6 @@
 	},
 	"sideEffects": false,
 	"dependencies": {
-		"@ctx-core/env": "^17.2.33"
+		"@ctx-core/env": "^17.2.34"
 	}
 }
