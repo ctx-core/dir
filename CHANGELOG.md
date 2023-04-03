@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 8.1.34
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.51 -> ^17.2.52
+- Updated dependencies
+  - @ctx-core/env@17.2.53
+
 ## 8.1.33
 
 ### Patch Changes
