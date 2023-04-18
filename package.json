@@ -32,6 +32,9 @@
 		"test-unit": "tsx node_modules/uvu/bin.js . '\\.test\\.(ts|js)$'",
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
+	"dependencies": {
+		"@ctx-core/env": "^17.2.75"
+	},
 	"devDependencies": {
 		"c8": "^7.13.0",
 		"check-dts": "^0.7.1",
@@ -43,8 +46,5 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"sideEffects": false,
-	"dependencies": {
-		"@ctx-core/env": "^17.2.63"
-	}
+	"sideEffects": false
 }
