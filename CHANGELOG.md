@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.1.70
+
+### Patch Changes
+
+- @ctx-core/env: ^17.2.89 -> ^17.2.90
+
 ## 8.1.69
 
 ### Patch Changes
