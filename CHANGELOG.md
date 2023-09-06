@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 8.1.111
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/env@17.3.5
+
 ## 8.1.110
 
 ### Patch Changes
