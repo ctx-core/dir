@@ -1,5 +1,13 @@
 # @ctx-core/dir
 
+## 8.1.116
+
+### Patch Changes
+
+- tsx: ^3.13.0 -> ^3.14.0
+- Updated dependencies
+  - @ctx-core/env@17.3.10
+
 ## 8.1.115
 
 ### Patch Changes
