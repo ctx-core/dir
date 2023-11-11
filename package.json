@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "8.1.125",
+	"version": "8.2.0",
 	"description": "ctx-core dir",
 	"keywords": [
 		"ctx-core",
@@ -17,12 +17,16 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
+	"files": [
+		"*.d.ts",
+		"./chdir",
+		"./env"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
-	"svelte": "./src/index.js",
 	"scripts": {
 		"build": ":",
 		"clean": ":",
@@ -33,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.3.19"
+		"@ctx-core/env": "^17.4.0"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
