@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/dir",
-	"version": "8.2.52",
+	"version": "8.2.53",
 	"description": "ctx-core dir",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^17.4.53"
+		"@ctx-core/env": "^17.4.54"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
