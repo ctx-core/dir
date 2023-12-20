@@ -1,6 +1,6 @@
 export async function chdir(dir, fn) {
 	const cwd = process.cwd()
-  try {
+	try {
 		process.chdir(dir)
 		await fn()
 	} finally {
