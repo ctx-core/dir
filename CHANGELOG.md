@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.2.108
+
+### Patch Changes
+
+- ctx-core: ^5.25.4 -> ^5.25.5
+
 ## 8.2.107
 
 ### Patch Changes
