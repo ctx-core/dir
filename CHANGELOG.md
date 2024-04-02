@@ -1,5 +1,11 @@
 # @ctx-core/dir
 
+## 8.2.171
+
+### Patch Changes
+
+- ctx-core: ^7.0.1 -> ^7.0.2
+
 ## 8.2.170
 
 ### Patch Changes
